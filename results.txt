@@ -1,0 +1,800 @@
+----------------------------------------------
+	       KMP Algorithum
+----------------------------------------------
+Search results of : 971123
+
+1. Matching substring found, starting at : 2115872
+
+2. Matching substring found, starting at : 3935918
+
+3. Matching substring found, starting at : 5831308
+
+4. Matching substring found, starting at : 8661275
+
+5. Matching substring found, starting at : 9192215
+
+6. Matching substring found, starting at : 12020003
+
+7. Matching substring found, starting at : 12609914
+
+8. Matching substring found, starting at : 12825721
+
+9. Matching substring found, starting at : 14970617
+
+10. Matching substring found, starting at : 15738963
+
+11. Matching substring found, starting at : 16455509
+
+12. Matching substring found, starting at : 18759612
+
+13. Matching substring found, starting at : 20913385
+
+14. Matching substring found, starting at : 20976555
+
+15. Matching substring found, starting at : 22408378
+
+16. Matching substring found, starting at : 22436822
+
+17. Matching substring found, starting at : 22649026
+
+18. Matching substring found, starting at : 23415801
+
+19. Matching substring found, starting at : 24279302
+
+20. Matching substring found, starting at : 24892334
+
+21. Matching substring found, starting at : 29830909
+
+22. Matching substring found, starting at : 30791261
+
+23. Matching substring found, starting at : 31042236
+
+24. Matching substring found, starting at : 31826289
+
+25. Matching substring found, starting at : 33121303
+
+26. Matching substring found, starting at : 34093408
+
+27. Matching substring found, starting at : 34199708
+
+28. Matching substring found, starting at : 34801704
+
+29. Matching substring found, starting at : 36108162
+
+30. Matching substring found, starting at : 36959105
+
+31. Matching substring found, starting at : 37223252
+
+32. Matching substring found, starting at : 38557232
+
+33. Matching substring found, starting at : 38832885
+
+34. Matching substring found, starting at : 39339150
+
+35. Matching substring found, starting at : 44789434
+
+36. Matching substring found, starting at : 47091141
+
+37. Matching substring found, starting at : 47726950
+
+38. Matching substring found, starting at : 48072953
+
+39. Matching substring found, starting at : 49416250
+
+40. Matching substring found, starting at : 50497514
+
+41. Matching substring found, starting at : 50786557
+
+42. Matching substring found, starting at : 52429136
+
+43. Matching substring found, starting at : 53217406
+
+44. Matching substring found, starting at : 54518766
+
+45. Matching substring found, starting at : 55091524
+
+46. Matching substring found, starting at : 55695505
+
+47. Matching substring found, starting at : 55819269
+
+48. Matching substring found, starting at : 55959442
+
+49. Matching substring found, starting at : 56802979
+
+50. Matching substring found, starting at : 57053433
+
+51. Matching substring found, starting at : 58219740
+
+52. Matching substring found, starting at : 58869472
+
+53. Matching substring found, starting at : 60582086
+
+54. Matching substring found, starting at : 61457638
+
+55. Matching substring found, starting at : 62370459
+
+56. Matching substring found, starting at : 63213435
+
+57. Matching substring found, starting at : 64034987
+
+58. Matching substring found, starting at : 66916380
+
+59. Matching substring found, starting at : 69471284
+
+60. Matching substring found, starting at : 69508932
+
+61. Matching substring found, starting at : 70302337
+
+62. Matching substring found, starting at : 70697441
+
+63. Matching substring found, starting at : 72721194
+
+64. Matching substring found, starting at : 74796018
+
+65. Matching substring found, starting at : 74880371
+
+66. Matching substring found, starting at : 76345195
+
+67. Matching substring found, starting at : 77472810
+
+68. Matching substring found, starting at : 77979525
+
+69. Matching substring found, starting at : 78358813
+
+70. Matching substring found, starting at : 78734883
+
+71. Matching substring found, starting at : 79094741
+
+72. Matching substring found, starting at : 81091158
+
+73. Matching substring found, starting at : 81233389
+
+74. Matching substring found, starting at : 81632811
+
+75. Matching substring found, starting at : 82121400
+
+76. Matching substring found, starting at : 82252506
+
+77. Matching substring found, starting at : 83017572
+
+78. Matching substring found, starting at : 83553587
+
+79. Matching substring found, starting at : 86354364
+
+80. Matching substring found, starting at : 87268267
+
+81. Matching substring found, starting at : 88026081
+
+82. Matching substring found, starting at : 90758808
+
+83. Matching substring found, starting at : 91226790
+
+84. Matching substring found, starting at : 91404379
+
+85. Matching substring found, starting at : 91934870
+
+86. Matching substring found, starting at : 92363846
+
+87. Matching substring found, starting at : 92659188
+
+88. Matching substring found, starting at : 92893391
+
+89. Matching substring found, starting at : 93614177
+
+90. Matching substring found, starting at : 94862131
+
+91. Matching substring found, starting at : 94957387
+
+92. Matching substring found, starting at : 95662952
+
+93. Matching substring found, starting at : 96413684
+
+94. Matching substring found, starting at : 97330086
+
+95. Matching substring found, starting at : 97812661
+
+96. Matching substring found, starting at : 99492344
+
+97. Matching substring found, starting at : 99725331
+
+98. Matching substring found, starting at : 99795710
+----------------------------------------------
+	      Naive Algorithum
+----------------------------------------------
+Search results of : 971123
+
+1. Matching substring found, starting at : 2115872
+
+2. Matching substring found, starting at : 3935918
+
+3. Matching substring found, starting at : 5831308
+
+4. Matching substring found, starting at : 8661275
+
+5. Matching substring found, starting at : 9192215
+
+6. Matching substring found, starting at : 12020003
+
+7. Matching substring found, starting at : 12609914
+
+8. Matching substring found, starting at : 12825721
+
+9. Matching substring found, starting at : 14970617
+
+10. Matching substring found, starting at : 15738963
+
+11. Matching substring found, starting at : 16455509
+
+12. Matching substring found, starting at : 18759612
+
+13. Matching substring found, starting at : 20913385
+
+14. Matching substring found, starting at : 20976555
+
+15. Matching substring found, starting at : 22408378
+
+16. Matching substring found, starting at : 22436822
+
+17. Matching substring found, starting at : 22649026
+
+18. Matching substring found, starting at : 23415801
+
+19. Matching substring found, starting at : 24279302
+
+20. Matching substring found, starting at : 24892334
+
+21. Matching substring found, starting at : 29830909
+
+22. Matching substring found, starting at : 30791261
+
+23. Matching substring found, starting at : 31042236
+
+24. Matching substring found, starting at : 31826289
+
+25. Matching substring found, starting at : 33121303
+
+26. Matching substring found, starting at : 34093408
+
+27. Matching substring found, starting at : 34199708
+
+28. Matching substring found, starting at : 34801704
+
+29. Matching substring found, starting at : 36108162
+
+30. Matching substring found, starting at : 36959105
+
+31. Matching substring found, starting at : 37223252
+
+32. Matching substring found, starting at : 38557232
+
+33. Matching substring found, starting at : 38832885
+
+34. Matching substring found, starting at : 39339150
+
+35. Matching substring found, starting at : 44789434
+
+36. Matching substring found, starting at : 47091141
+
+37. Matching substring found, starting at : 47726950
+
+38. Matching substring found, starting at : 48072953
+
+39. Matching substring found, starting at : 49416250
+
+40. Matching substring found, starting at : 50497514
+
+41. Matching substring found, starting at : 50786557
+
+42. Matching substring found, starting at : 52429136
+
+43. Matching substring found, starting at : 53217406
+
+44. Matching substring found, starting at : 54518766
+
+45. Matching substring found, starting at : 55091524
+
+46. Matching substring found, starting at : 55695505
+
+47. Matching substring found, starting at : 55819269
+
+48. Matching substring found, starting at : 55959442
+
+49. Matching substring found, starting at : 56802979
+
+50. Matching substring found, starting at : 57053433
+
+51. Matching substring found, starting at : 58219740
+
+52. Matching substring found, starting at : 58869472
+
+53. Matching substring found, starting at : 60582086
+
+54. Matching substring found, starting at : 61457638
+
+55. Matching substring found, starting at : 62370459
+
+56. Matching substring found, starting at : 63213435
+
+57. Matching substring found, starting at : 64034987
+
+58. Matching substring found, starting at : 66916380
+
+59. Matching substring found, starting at : 69471284
+
+60. Matching substring found, starting at : 69508932
+
+61. Matching substring found, starting at : 70302337
+
+62. Matching substring found, starting at : 70697441
+
+63. Matching substring found, starting at : 72721194
+
+64. Matching substring found, starting at : 74796018
+
+65. Matching substring found, starting at : 74880371
+
+66. Matching substring found, starting at : 76345195
+
+67. Matching substring found, starting at : 77472810
+
+68. Matching substring found, starting at : 77979525
+
+69. Matching substring found, starting at : 78358813
+
+70. Matching substring found, starting at : 78734883
+
+71. Matching substring found, starting at : 79094741
+
+72. Matching substring found, starting at : 81091158
+
+73. Matching substring found, starting at : 81233389
+
+74. Matching substring found, starting at : 81632811
+
+75. Matching substring found, starting at : 82121400
+
+76. Matching substring found, starting at : 82252506
+
+77. Matching substring found, starting at : 83017572
+
+78. Matching substring found, starting at : 83553587
+
+79. Matching substring found, starting at : 86354364
+
+80. Matching substring found, starting at : 87268267
+
+81. Matching substring found, starting at : 88026081
+
+82. Matching substring found, starting at : 90758808
+
+83. Matching substring found, starting at : 91226790
+
+84. Matching substring found, starting at : 91404379
+
+85. Matching substring found, starting at : 91934870
+
+86. Matching substring found, starting at : 92363846
+
+87. Matching substring found, starting at : 92659188
+
+88. Matching substring found, starting at : 92893391
+
+89. Matching substring found, starting at : 93614177
+
+90. Matching substring found, starting at : 94862131
+
+91. Matching substring found, starting at : 94957387
+
+92. Matching substring found, starting at : 95662952
+
+93. Matching substring found, starting at : 96413684
+
+94. Matching substring found, starting at : 97330086
+
+95. Matching substring found, starting at : 97812661
+
+96. Matching substring found, starting at : 99492344
+
+97. Matching substring found, starting at : 99725331
+
+98. Matching substring found, starting at : 99795710
+----------------------------------------------
+	    Rabin Karp Algorithum
+----------------------------------------------
+Search results of : 971123
+
+1. Matching substring found, starting at : 2115872
+
+2. Matching substring found, starting at : 3935918
+
+3. Matching substring found, starting at : 5831308
+
+4. Matching substring found, starting at : 8661275
+
+5. Matching substring found, starting at : 9192215
+
+6. Matching substring found, starting at : 12020003
+
+7. Matching substring found, starting at : 12609914
+
+8. Matching substring found, starting at : 12825721
+
+9. Matching substring found, starting at : 14970617
+
+10. Matching substring found, starting at : 15738963
+
+11. Matching substring found, starting at : 16455509
+
+12. Matching substring found, starting at : 18759612
+
+13. Matching substring found, starting at : 20913385
+
+14. Matching substring found, starting at : 20976555
+
+15. Matching substring found, starting at : 22408378
+
+16. Matching substring found, starting at : 22436822
+
+17. Matching substring found, starting at : 22649026
+
+18. Matching substring found, starting at : 23415801
+
+19. Matching substring found, starting at : 24279302
+
+20. Matching substring found, starting at : 24892334
+
+21. Matching substring found, starting at : 29830909
+
+22. Matching substring found, starting at : 30791261
+
+23. Matching substring found, starting at : 31042236
+
+24. Matching substring found, starting at : 31826289
+
+25. Matching substring found, starting at : 33121303
+
+26. Matching substring found, starting at : 34093408
+
+27. Matching substring found, starting at : 34199708
+
+28. Matching substring found, starting at : 34801704
+
+29. Matching substring found, starting at : 36108162
+
+30. Matching substring found, starting at : 36959105
+
+31. Matching substring found, starting at : 37223252
+
+32. Matching substring found, starting at : 38557232
+
+33. Matching substring found, starting at : 38832885
+
+34. Matching substring found, starting at : 39339150
+
+35. Matching substring found, starting at : 44789434
+
+36. Matching substring found, starting at : 47091141
+
+37. Matching substring found, starting at : 47726950
+
+38. Matching substring found, starting at : 48072953
+
+39. Matching substring found, starting at : 49416250
+
+40. Matching substring found, starting at : 50497514
+
+41. Matching substring found, starting at : 50786557
+
+42. Matching substring found, starting at : 52429136
+
+43. Matching substring found, starting at : 53217406
+
+44. Matching substring found, starting at : 54518766
+
+45. Matching substring found, starting at : 55091524
+
+46. Matching substring found, starting at : 55695505
+
+47. Matching substring found, starting at : 55819269
+
+48. Matching substring found, starting at : 55959442
+
+49. Matching substring found, starting at : 56802979
+
+50. Matching substring found, starting at : 57053433
+
+51. Matching substring found, starting at : 58219740
+
+52. Matching substring found, starting at : 58869472
+
+53. Matching substring found, starting at : 60582086
+
+54. Matching substring found, starting at : 61457638
+
+55. Matching substring found, starting at : 62370459
+
+56. Matching substring found, starting at : 63213435
+
+57. Matching substring found, starting at : 64034987
+
+58. Matching substring found, starting at : 66916380
+
+59. Matching substring found, starting at : 69471284
+
+60. Matching substring found, starting at : 69508932
+
+61. Matching substring found, starting at : 70302337
+
+62. Matching substring found, starting at : 70697441
+
+63. Matching substring found, starting at : 72721194
+
+64. Matching substring found, starting at : 74796018
+
+65. Matching substring found, starting at : 74880371
+
+66. Matching substring found, starting at : 76345195
+
+67. Matching substring found, starting at : 77472810
+
+68. Matching substring found, starting at : 77979525
+
+69. Matching substring found, starting at : 78358813
+
+70. Matching substring found, starting at : 78734883
+
+71. Matching substring found, starting at : 79094741
+
+72. Matching substring found, starting at : 81091158
+
+73. Matching substring found, starting at : 81233389
+
+74. Matching substring found, starting at : 81632811
+
+75. Matching substring found, starting at : 82121400
+
+76. Matching substring found, starting at : 82252506
+
+77. Matching substring found, starting at : 83017572
+
+78. Matching substring found, starting at : 83553587
+
+79. Matching substring found, starting at : 86354364
+
+80. Matching substring found, starting at : 87268267
+
+81. Matching substring found, starting at : 88026081
+
+82. Matching substring found, starting at : 90758808
+
+83. Matching substring found, starting at : 91226790
+
+84. Matching substring found, starting at : 91404379
+
+85. Matching substring found, starting at : 91934870
+
+86. Matching substring found, starting at : 92363846
+
+87. Matching substring found, starting at : 92659188
+
+88. Matching substring found, starting at : 92893391
+
+89. Matching substring found, starting at : 93614177
+
+90. Matching substring found, starting at : 94862131
+
+91. Matching substring found, starting at : 94957387
+
+92. Matching substring found, starting at : 95662952
+
+93. Matching substring found, starting at : 96413684
+
+94. Matching substring found, starting at : 97330086
+
+95. Matching substring found, starting at : 97812661
+
+96. Matching substring found, starting at : 99492344
+
+97. Matching substring found, starting at : 99725331
+
+98. Matching substring found, starting at : 99795710
+----------------------------------------------
+	   Boyer Moor Algorithum
+----------------------------------------------
+Search results of : 971123
+
+1. Matching substring found, starting at : 2115872
+
+2. Matching substring found, starting at : 3935918
+
+3. Matching substring found, starting at : 5831308
+
+4. Matching substring found, starting at : 8661275
+
+5. Matching substring found, starting at : 9192215
+
+6. Matching substring found, starting at : 12020003
+
+7. Matching substring found, starting at : 12609914
+
+8. Matching substring found, starting at : 12825721
+
+9. Matching substring found, starting at : 14970617
+
+10. Matching substring found, starting at : 15738963
+
+11. Matching substring found, starting at : 16455509
+
+12. Matching substring found, starting at : 18759612
+
+13. Matching substring found, starting at : 20913385
+
+14. Matching substring found, starting at : 20976555
+
+15. Matching substring found, starting at : 22408378
+
+16. Matching substring found, starting at : 22436822
+
+17. Matching substring found, starting at : 22649026
+
+18. Matching substring found, starting at : 23415801
+
+19. Matching substring found, starting at : 24279302
+
+20. Matching substring found, starting at : 24892334
+
+21. Matching substring found, starting at : 29830909
+
+22. Matching substring found, starting at : 30791261
+
+23. Matching substring found, starting at : 31042236
+
+24. Matching substring found, starting at : 31826289
+
+25. Matching substring found, starting at : 33121303
+
+26. Matching substring found, starting at : 34093408
+
+27. Matching substring found, starting at : 34199708
+
+28. Matching substring found, starting at : 34801704
+
+29. Matching substring found, starting at : 36108162
+
+30. Matching substring found, starting at : 36959105
+
+31. Matching substring found, starting at : 37223252
+
+32. Matching substring found, starting at : 38557232
+
+33. Matching substring found, starting at : 38832885
+
+34. Matching substring found, starting at : 39339150
+
+35. Matching substring found, starting at : 44789434
+
+36. Matching substring found, starting at : 47091141
+
+37. Matching substring found, starting at : 47726950
+
+38. Matching substring found, starting at : 48072953
+
+39. Matching substring found, starting at : 49416250
+
+40. Matching substring found, starting at : 50497514
+
+41. Matching substring found, starting at : 50786557
+
+42. Matching substring found, starting at : 52429136
+
+43. Matching substring found, starting at : 53217406
+
+44. Matching substring found, starting at : 54518766
+
+45. Matching substring found, starting at : 55091524
+
+46. Matching substring found, starting at : 55695505
+
+47. Matching substring found, starting at : 55819269
+
+48. Matching substring found, starting at : 55959442
+
+49. Matching substring found, starting at : 56802979
+
+50. Matching substring found, starting at : 57053433
+
+51. Matching substring found, starting at : 58219740
+
+52. Matching substring found, starting at : 58869472
+
+53. Matching substring found, starting at : 60582086
+
+54. Matching substring found, starting at : 61457638
+
+55. Matching substring found, starting at : 62370459
+
+56. Matching substring found, starting at : 63213435
+
+57. Matching substring found, starting at : 64034987
+
+58. Matching substring found, starting at : 66916380
+
+59. Matching substring found, starting at : 69471284
+
+60. Matching substring found, starting at : 69508932
+
+61. Matching substring found, starting at : 70302337
+
+62. Matching substring found, starting at : 70697441
+
+63. Matching substring found, starting at : 72721194
+
+64. Matching substring found, starting at : 74796018
+
+65. Matching substring found, starting at : 74880371
+
+66. Matching substring found, starting at : 76345195
+
+67. Matching substring found, starting at : 77472810
+
+68. Matching substring found, starting at : 77979525
+
+69. Matching substring found, starting at : 78358813
+
+70. Matching substring found, starting at : 78734883
+
+71. Matching substring found, starting at : 79094741
+
+72. Matching substring found, starting at : 81091158
+
+73. Matching substring found, starting at : 81233389
+
+74. Matching substring found, starting at : 81632811
+
+75. Matching substring found, starting at : 82121400
+
+76. Matching substring found, starting at : 82252506
+
+77. Matching substring found, starting at : 83017572
+
+78. Matching substring found, starting at : 83553587
+
+79. Matching substring found, starting at : 86354364
+
+80. Matching substring found, starting at : 87268267
+
+81. Matching substring found, starting at : 88026081
+
+82. Matching substring found, starting at : 90758808
+
+83. Matching substring found, starting at : 91226790
+
+84. Matching substring found, starting at : 91404379
+
+85. Matching substring found, starting at : 91934870
+
+86. Matching substring found, starting at : 92363846
+
+87. Matching substring found, starting at : 92659188
+
+88. Matching substring found, starting at : 92893391
+
+89. Matching substring found, starting at : 93614177
+
+90. Matching substring found, starting at : 94862131
+
+91. Matching substring found, starting at : 94957387
+
+92. Matching substring found, starting at : 95662952
+
+93. Matching substring found, starting at : 96413684
+
+94. Matching substring found, starting at : 97330086
+
+95. Matching substring found, starting at : 97812661
+
+96. Matching substring found, starting at : 99492344
+
+97. Matching substring found, starting at : 99725331
+
+98. Matching substring found, starting at : 99795710
